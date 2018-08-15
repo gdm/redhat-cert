@@ -1,0 +1,2 @@
+
+Preparation for RedHat certification
