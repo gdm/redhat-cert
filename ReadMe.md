@@ -19,3 +19,9 @@
 
 1. [AWS Marketplace image for CentOS 7](https://aws.amazon.com/marketplace/pp/B00O7WM7QW)
 2. [How to build AMI CentOS7](https://github.com/gdm/centos7-ami/blob/master/build.sh)
+
+
+
+Bookmarks : https://www.certdepot.net/rhel7-free-available-resources
+
+
